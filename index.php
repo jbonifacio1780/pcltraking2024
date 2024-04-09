@@ -19,11 +19,10 @@
     <meta name="keywords" content="adminkit, bootstrap, bootstrap 5, admin, dashboard, template, responsive, css, sass, html, theme, front-end, ui kit, web">
 
   
-    <link rel="shortcut icon" href="./public/img/icons/favicon.png">
 
     <link rel="canonical" href="pages-sign-in.html">
 
-    <title>Sign In | PCL</title>
+    <title>Sign In</title>
 
     <link href="./public/css/css2.css?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -105,8 +104,7 @@
                     <div class="d-table-cell align-middle">
 
                         <div class="text-center divlog">
-                      
-                              <img src="./public/img/avatars/logo.png" class="img-fluid" >
+                  
                         </div>
 
                         <div class="card" style="background-color: rgba(255,255,255,0.13); backdrop-filter: blur(10px);">
@@ -115,7 +113,7 @@
                                 <h1 style="color:#fff;" class="text-center">Tracking Online</h1>
                                     <div class="text-center">
                                         
-                                        <img src="./public/img/avatars/avatar-6.png" alt="Charles Hall" class="img-fluid rounded-circle" width="132" height="132">
+                                       
                                     </div>
                                     <form class="sign-box" action="" method="post" id="login_form">
                                         <div class="mb-3">
